@@ -43,7 +43,7 @@ function Home() {
                 </button>
             </div>
 
-            <div className="absolute bottom-0 flex flex-row font-mono justify-center p-4 text-green-200 text-xs">
+            <div className="absolute bottom-0 flex flex-row flex-wrap font-mono justify-center p-4 text-green-200 text-xs">
                 <div className="flex flex-row">
                     <p className="mx-1">
                         Compartilhar:
@@ -69,11 +69,13 @@ function Home() {
                         Twitter
                     </a>
 
-                    <span className="mx-1">
+                    <span className="hidden sm:block mx-1">
                         &#124;
                     </span>
+                </div>
 
-                    <p className="mx-1">
+                <div className="mx-1">
+                    <p>
                         Repositório:{' '}
 
                         <a
