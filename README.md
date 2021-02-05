@@ -1,14 +1,14 @@
 <h1 align="center">
-  <a href="https://devovacinar.me/">
+  <a href="https://devovacinar.me/" target="_blank">
       Devo Vacinar-me? 💉
   </a>
 </h1>
 
 <p align="center">
-    <a href="https://nextjs.org/">
+    <a href="https://nextjs.org/" target="_blank">
         <img alt="Made With Next.js Badge" src="https://img.shields.io/badge/Made%20with-Next.js-1f425f.svg">
     </a>
-    <a href="blob/master/LICENSE">
+    <a href="blob/master/LICENSE" target="_blank">
         <img alt="MIT License Badge" src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat">
     </a>
 </p>
